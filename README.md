@@ -31,3 +31,4 @@ At the MainView you will see serveral UI Elements:
 
 1. XdevUpload
 2. XdevImage
+3. XdevPanel
